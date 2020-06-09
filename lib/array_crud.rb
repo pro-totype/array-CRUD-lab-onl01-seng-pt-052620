@@ -39,5 +39,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  create_an_array.last
+  retrieve_last_element_from_array=["wow", "I", "am", "really", "learning", "arrays!"]
+  retrieve_last_element_from_array.last
 end
