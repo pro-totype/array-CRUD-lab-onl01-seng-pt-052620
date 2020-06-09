@@ -9,11 +9,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  create_an_array.last("bulldog")
+  create_an_array.last("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
-  create_an_array.unshift("husky")
+  create_an_array.first("wow")
 end
 
 def remove_element_from_end_of_array(array)
